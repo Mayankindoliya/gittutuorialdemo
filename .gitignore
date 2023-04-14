@@ -1,0 +1,4 @@
+*.log
+/dir/
+static/text doc.txt
+db.accdb
